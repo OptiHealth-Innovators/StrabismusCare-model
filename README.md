@@ -1,7 +1,7 @@
 # StrabismusCare: AI-Powered Mobile App for Strabismus Screening and Management
 
 <div align="center">
-  <img src="assets/images/icon.png" alt="StrabismusCare Logo" width="400"/>
+  <img src="assets/icon.png" alt="StrabismusCare Logo" width="400"/>
   <br>
   <p><strong>Revolutionizing Eye Care Through Artificial Intelligence</strong></p>
   <p>
@@ -54,7 +54,7 @@ StrabismusCare is an innovative AI-powered mobile application designed to revolu
 ## 🔄 How It Works
 
 <div align="center">
-  <img src="assets/images/workflow.png" alt="StrabismusCare Workflow"/>
+  <img src="assets/workflow.png" alt="StrabismusCare Workflow"/>
 </div>
 
 1. **Capture or Upload Images** - Users take high-resolution eye photos or upload existing images
