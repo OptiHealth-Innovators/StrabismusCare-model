@@ -1,0 +1,6 @@
+.venv
+input_image
+output_images
+processed_images
+test
+main.py
