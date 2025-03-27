@@ -19,7 +19,7 @@
 
 ## 📋 Overview
 
-StrabismusCare is an innovative AI-powered mobile application designed to revolutionize the screening and management of strabismus, a common eye condition affecting millions worldwide. By leveraging cutting-edge artificial intelligence, we provide accessible, efficient, and accurate diagnostic solutions that empower users to take control of their eye health while facilitating better communication with healthcare providers. [3]
+StrabismusCare is an innovative AI-powered mobile application designed to revolutionize the screening and management of strabismus, a common eye condition affecting millions worldwide. By leveraging cutting-edge artificial intelligence, we provide accessible, efficient, and accurate diagnostic solutions that empower users to take control of their eye health while facilitating better communication with healthcare providers.
 
 ## ✨ Key Features
 
@@ -41,7 +41,7 @@ StrabismusCare is an innovative AI-powered mobile application designed to revolu
 
 ### 📚 Educational Resources
 - **Knowledge Base**: Comprehensive information about strabismus, its effects, and management options
-- **Informed Decisions**: Empowers users with knowledge to make better choices about their eye health [6]
+- **Informed Decisions**: Empowers users with knowledge to make better choices about their eye health
 
 ## 🛠️ Technological Highlights
 
@@ -49,7 +49,7 @@ StrabismusCare is an innovative AI-powered mobile application designed to revolu
 - **Real-Time Processing**: Delivers instant diagnostic results for timely intervention
 - **Secure Cloud Integration**: HIPAA-compliant data storage with seamless access for authorized users
 - **Healthcare System Compatibility**: Integrates with electronic health record (EHR) systems
-- **Enterprise-Grade Security**: Implements AES encryption and SSL/TLS protocols to ensure data privacy [7]
+- **Enterprise-Grade Security**: Implements AES encryption and SSL/TLS protocols to ensure data privacy
 
 ## 🔄 How It Works
 
@@ -61,7 +61,7 @@ StrabismusCare is an innovative AI-powered mobile application designed to revolu
 2. **AI Analysis** - Our advanced algorithms process the images to detect signs of strabismus
 3. **View Results** - Detailed diagnostic feedback is provided with confidence levels
 4. **Track Progress** - Users can monitor their condition through the app's digital health records
-5. **Connect with Specialists** - Integrated communication tools facilitate professional consultations [2]
+5. **Connect with Specialists** - Integrated communication tools facilitate professional consultations
 
 ## 💪 Why StrabismusCare?
 
@@ -159,7 +159,7 @@ npx expo start
 - [ ] Integration with wearable eye-tracking devices
 - [ ] Multi-language support for global accessibility
 - [ ] Telemedicine video consultation feature
-- [ ] Machine learning enhancements for higher accuracy [4]
+- [ ] Machine learning enhancements for higher accuracy
 
 ## 👥 Contributing
 
@@ -179,7 +179,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-We extend our gratitude to the developers, healthcare professionals, and researchers who contributed to the development of StrabismusCare. Special thanks to the 18th National College Student Software Innovation Competition for providing the platform to showcase this project. [8]
+We extend our gratitude to the developers, healthcare professionals, and researchers who contributed to the development of StrabismusCare. Special thanks to the 18th National College Student Software Innovation Competition for providing the platform to showcase this project.
 
 ---
 
